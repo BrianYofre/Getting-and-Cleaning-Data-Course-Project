@@ -1,7 +1,7 @@
 # Getting-and-Cleaning-Data-Course-Project
-##Identifiers
+## Identifiers
 
-##Measurements
+## Measurements
 tBodyAccMeanX 
 tBodyAccMeanY 
 tBodyAccMeanZ 
