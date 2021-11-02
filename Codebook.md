@@ -1,6 +1,8 @@
-# Getting-and-Cleaning-Data-Course-Project
+# Code Book
+* Summarization of the file `tidydata.txt`
 ## Identifiers
-
+* subject - The ID of the test subject
+* activity - The type of activity performed 
 ## Measurements
 *	tBodyAccMeanX 
 *	tBodyAccMeanY 
